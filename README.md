@@ -7,3 +7,4 @@ A small Native HTML & CSS website to demo the use of basic Bootstrap components 
 -  Github Pages: https://kuuzon.github.io/
 -  Render: https://responsive-t3ws.onrender.com/
 -  CloudFlare pages: https://kuuzon-github-io.pages.dev/
+-  Shared webhost (GoDaddy): http://cert4ftp.cocoloubifashion.com/alexclass/burgerlabs/
